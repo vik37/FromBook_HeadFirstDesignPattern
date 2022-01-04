@@ -1,0 +1,14 @@
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\bin\Debug\netcoreapp3.1\DesignPattern_STP.exe
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\bin\Debug\netcoreapp3.1\DesignPattern_STP.deps.json
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\bin\Debug\netcoreapp3.1\DesignPattern_STP.runtimeconfig.json
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\bin\Debug\netcoreapp3.1\DesignPattern_STP.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\bin\Debug\netcoreapp3.1\DesignPattern_STP.dll
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\bin\Debug\netcoreapp3.1\DesignPattern_STP.pdb
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcoreapp3.1\DesignPattern_STP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcoreapp3.1\DesignPattern_STP.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcoreapp3.1\DesignPattern_STP.AssemblyInfo.cs
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcoreapp3.1\DesignPattern_STP.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcoreapp3.1\DesignPattern_STP.dll
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcoreapp3.1\DesignPattern_STP.pdb
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcoreapp3.1\DesignPattern_STP.genruntimeconfig.cache
+C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcoreapp3.1\DesignPattern_STP.csproj.AssemblyReference.cache
