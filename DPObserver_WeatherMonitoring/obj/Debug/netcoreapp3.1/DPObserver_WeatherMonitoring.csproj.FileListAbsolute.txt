@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\bin\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.exe
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\bin\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.deps.json
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\bin\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.runtimeconfig.json
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\bin\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\bin\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.dll
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\bin\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.pdb
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\obj\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\obj\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\obj\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.AssemblyInfo.cs
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\obj\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\obj\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.dll
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\obj\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.pdb
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\obj\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.genruntimeconfig.cache
