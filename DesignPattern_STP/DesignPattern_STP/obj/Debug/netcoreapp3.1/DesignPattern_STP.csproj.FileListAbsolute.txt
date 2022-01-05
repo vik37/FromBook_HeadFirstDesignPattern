@@ -11,4 +11,3 @@ C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcor
 C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcoreapp3.1\DesignPattern_STP.dll
 C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcoreapp3.1\DesignPattern_STP.pdb
 C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcoreapp3.1\DesignPattern_STP.genruntimeconfig.cache
-C:\Users\vikto\source\repos\DesignPattern_STP\DesignPattern_STP\obj\Debug\netcoreapp3.1\DesignPattern_STP.csproj.AssemblyReference.cache
