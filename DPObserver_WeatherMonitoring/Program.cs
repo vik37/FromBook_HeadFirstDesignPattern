@@ -17,6 +17,10 @@ namespace DPObserver_WeatherMonitoring
             weatherData.SetMeasurements(80, 65, 34.4f);
             weatherData.SetMeasurements(82, 70, 29.2f);
             weatherData.SetMeasurements(78, 90, 29.2f);
+            weatherData.SetMeasurements(86, 48, 27.8f);
+            weatherData.RemoveObserver(statistic);
+            weatherData.SetMeasurements(73, 40, 49.2f);
+            weatherData.SetMeasurements(81, 58, 22.1f);
             Console.ReadLine();
         }
     }
