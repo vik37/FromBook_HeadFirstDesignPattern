@@ -11,7 +11,6 @@ namespace DPObserver_WeatherMonitoring
         private float _temperature;
         private float _humidity;
         private float _pressure;
-
         public WeatherData()
         {
             _observers = new List<IObserver>();

@@ -13,7 +13,7 @@ namespace DPObserver_WeatherMonitoring
             WeatherData weatherData = new WeatherData();
 
             CurrentConditionsDisplay currentDisplay = new CurrentConditionsDisplay(weatherData);
-
+            StatisticsDisplay statistic = new StatisticsDisplay(weatherData);
             weatherData.SetMeasurements(80, 65, 34.4f);
             weatherData.SetMeasurements(82, 70, 29.2f);
             weatherData.SetMeasurements(78, 90, 29.2f);

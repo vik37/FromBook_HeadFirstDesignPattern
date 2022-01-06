@@ -11,3 +11,4 @@ C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\obj\D
 C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\obj\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.dll
 C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\obj\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.pdb
 C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\obj\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.genruntimeconfig.cache
+C:\Users\vikto\source\repos\DesignPattern_STP\DPObserver_WeatherMonitoring\obj\Debug\netcoreapp3.1\DPObserver_WeatherMonitoring.csproj.AssemblyReference.cache

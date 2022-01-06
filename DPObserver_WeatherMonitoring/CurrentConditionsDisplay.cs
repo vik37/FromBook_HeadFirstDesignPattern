@@ -10,6 +10,7 @@ namespace DPObserver_WeatherMonitoring
         private float _humidity;
         private float _preasure;
         private ISubject _weatherData;
+        private int _day;
 
         public CurrentConditionsDisplay(ISubject weatherData)
         {
@@ -18,6 +19,7 @@ namespace DPObserver_WeatherMonitoring
         }
         public void Update(float temperature, float humidity, float pressure)
         {
+            this._day += 1;
             this._temperature = temperature;
             this._humidity = humidity;
             this._preasure = pressure;
@@ -25,6 +27,7 @@ namespace DPObserver_WeatherMonitoring
         }
         public void Display()
         {
+            Console.WriteLine($"DAY: {_day}");
             Console.WriteLine($"Current condition: \n {_temperature} F degrees and {_humidity} % humidity " +
                                 $"\n air pressure: {_preasure}");
         }
