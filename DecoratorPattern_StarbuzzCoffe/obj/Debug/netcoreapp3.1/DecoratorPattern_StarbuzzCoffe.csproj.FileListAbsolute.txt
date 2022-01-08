@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\bin\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.exe
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\bin\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.deps.json
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\bin\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.runtimeconfig.json
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\bin\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\bin\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.dll
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\bin\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.pdb
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\obj\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\obj\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\obj\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.AssemblyInfo.cs
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\obj\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\obj\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.dll
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\obj\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.pdb
+C:\Users\vikto\source\repos\DesignPattern_STP\DecoratorPattern_StarbuzzCoffe\obj\Debug\netcoreapp3.1\DecoratorPattern_StarbuzzCoffe.genruntimeconfig.cache

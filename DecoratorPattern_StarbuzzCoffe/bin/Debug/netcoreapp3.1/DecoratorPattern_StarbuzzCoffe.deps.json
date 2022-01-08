@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DecoratorPattern_StarbuzzCoffe/1.0.0": {
+        "runtime": {
+          "DecoratorPattern_StarbuzzCoffe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DecoratorPattern_StarbuzzCoffe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
