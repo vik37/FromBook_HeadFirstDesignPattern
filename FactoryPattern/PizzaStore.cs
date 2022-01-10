@@ -22,7 +22,7 @@ namespace FactoryPattern
                 pizza.Bake();
                 pizza.Cut();
                 pizza.Box();
-                pizza.TypeOfPizza();
+                
                 return pizza;
             }
             

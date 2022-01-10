@@ -4,11 +4,14 @@ using System.Text;
 
 namespace FactoryPattern.Pizzas.NYStylePizzas
 {
-    public class NYStyleCheesePizza : CheesePizza
+    public class NYStyleCheesePizza : Pizza
     {
-        public override void TypeOfPizza()
+        public NYStyleCheesePizza()
         {
-            Console.WriteLine("take your pizza  Cheese Pizza (New York Style");
+            _name = "NY Style Sauce and Cheese Pizza";
+            _dough = "Thin Crust Dough";
+            _sauce = "Marinara Sauce";
+            _toppings.Add("Greated Reggiano Cheese");
         }
     }
 }

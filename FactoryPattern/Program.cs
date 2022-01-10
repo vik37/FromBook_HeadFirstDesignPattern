@@ -9,11 +9,15 @@ namespace FactoryPattern
         {
             Console.WriteLine("what pizza do you want?");
             Console.WriteLine("------------------------");
-            PizzaStore pizzaStoreChicago1 = new ChicagoStylePizzaFactory();
-            pizzaStoreChicago1.OrderPizza(Console.ReadLine());
+            PizzaStore nyStore = new NYPizzaFactory();
+            PizzaStore chickagoStor = new ChicagoStylePizzaFactory();
+            Pizza pizza = nyStore.OrderPizza("cheese");
 
-            PizzaStore pizzaStoreChicago2 = new NYPizzaFactory();
-            pizzaStoreChicago2.OrderPizza(Console.ReadLine());
+            Console.WriteLine($"Stefan order a {pizza.Name} \n\n");
+
+            pizza = chickagoStor.OrderPizza("veggie");
+
+            Console.WriteLine($"Marika order a {pizza.Name}");
 
             
 

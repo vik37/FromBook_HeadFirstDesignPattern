@@ -4,11 +4,18 @@ using System.Text;
 
 namespace FactoryPattern.Pizzas.ChicagoStyle
 {
-    public class ChicagoStyleCheesePizza : CheesePizza
+    public class ChicagoStyleCheesePizza : Pizza
     {
-        public override void TypeOfPizza()
+        public ChicagoStyleCheesePizza()
         {
-            Console.WriteLine("take your pizza  Cheese Pizza (Chicago Style");
+            _name = "Chicago Style Deep Dish Cheese Pizza";
+            _dough = "Extra Thick Crust Dough";
+            _sauce = "Plum Tomato Sauce";
+            _toppings.Add("Shredded Mozzarella Cheese");
+        }
+        public override void Cut()
+        {
+            Console.WriteLine("Cutting the pizza into square slices");
         }
     }
 }
